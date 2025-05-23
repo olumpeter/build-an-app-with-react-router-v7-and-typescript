@@ -8,12 +8,6 @@ Article with the original idea:
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
-[![Open in StackBlitz](# Build an App With React Router V7 and TypeScript
-
-## Original Idea
-
-[Build an App With Svelte and TypeScript by Ryan Chenkie](https://www.prisma.io/blog/build-an-app-with-svelte-and-typescript-PZDY3t93qAtd)https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
-
 ## Features
 
 - 🚀 Server-side rendering
